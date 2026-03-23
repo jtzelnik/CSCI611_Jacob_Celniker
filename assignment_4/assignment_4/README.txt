@@ -1,7 +1,9 @@
-##### CNN NOTEBOOK FOR VISUALIZING CONVOLUTION
+##### Notebook for Style Transfer from Artworks to a Photograph
 
 instructions- -
-Install pytorch and numpy in python environment and click play!
+Install pytorch, numpy, matplotlib, torch, requests, and torchvision in python environment and click play!
+
+
 
 ##RECOMMENDED##
 create jupyter kernel in a local python virtual environment. 
